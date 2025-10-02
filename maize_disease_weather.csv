@@ -1,0 +1,891 @@
+Rainfall_mm,Temperature_C,Humidity_%,Disease
+74.91,34.01,83.92,Downy Mildew
+166.49,19.25,50.91,Gray Leaf Spot
+60.85,25.5,65.92,Common Rust
+122.37,17.79,57.53,Southern Rust
+91.21,30.7,51.98,Southern Rust
+118.48,15.93,76.45,Northern Corn Leaf Blight
+13.01,33.98,97.94,Maize Dwarf Mosaic
+60.92,16.95,81.05,Anthracnose
+51.76,28.25,58.7,Anthracnose
+109.34,18.7,98.18,Maize Dwarf Mosaic
+17.7,18.92,42.71,Southern Rust
+77.74,20.43,89.72,Gray Leaf Spot
+56.19,25.85,48.46,Fusarium Stalk Rot
+14.91,34.74,86.33,Southern Corn Leaf Blight
+1.1,31.31,82.41,Downy Mildew
+154.25,16.48,61.51,Southern Corn Leaf Blight
+172.62,27.47,59.85,Northern Corn Leaf Blight
+62.2,21.5,83.78,Maize Dwarf Mosaic
+177.44,24.44,47.18,Fusarium Stalk Rot
+152.16,26.23,86.26,Anthracnose
+104.55,23.55,41.53,Southern Corn Leaf Blight
+6.29,27.73,58.86,Anthracnose
+181.51,19.99,64.62,Fusarium Stalk Rot
+45.76,16.54,57.39,Gray Leaf Spot
+185.94,31.16,78,Fusarium Stalk Rot
+160.73,18.73,93.55,Anthracnose
+161.49,32.92,59.08,Southern Corn Leaf Blight
+1.39,25.21,65.04,Gray Leaf Spot
+23.97,21.75,96.57,Gray Leaf Spot
+192.49,20.04,69.83,Common Rust
+56.97,15.74,76.57,Downy Mildew
+10.3,20.57,94.5,Southern Corn Leaf Blight
+28.98,24.79,99.14,Southern Corn Leaf Blight
+134.43,30.23,54.26,Maize Dwarf Mosaic
+73.56,27.65,78.01,Anthracnose
+18.06,31.71,59.25,Gray Leaf Spot
+8.16,26.82,80.65,Northern Corn Leaf Blight
+102.42,19.53,78.71,Northern Corn Leaf Blight
+138.19,22.73,96.2,Northern Corn Leaf Blight
+51.59,28.2,89.03,Downy Mildew
+180.08,27.66,60.34,Southern Rust
+145.19,32.94,93.23,Downy Mildew
+121.29,15.18,46.09,Maize Dwarf Mosaic
+1.01,18.22,72.92,Maize Dwarf Mosaic
+130.39,19.49,82.73,Northern Corn Leaf Blight
+131.52,26.37,45.62,Southern Rust
+53.04,19.88,98.38,Common Rust
+178.41,27.62,87.69,Anthracnose
+115.38,24.85,51.71,Maize Dwarf Mosaic
+56.15,15.49,78.73,Gray Leaf Spot
+188.09,34.08,94.89,Gray Leaf Spot
+192.72,32.06,57.67,Southern Rust
+170.23,21.34,50.17,Maize Dwarf Mosaic
+187.23,28.92,74.2,Northern Corn Leaf Blight
+123,34.8,48.41,Southern Rust
+175.47,29.82,81.82,Maize Dwarf Mosaic
+71.9,20.87,88.56,Fusarium Stalk Rot
+173.41,33.26,70.68,Anthracnose
+159.66,28,82.12,Fusarium Stalk Rot
+105.12,22.45,67.34,Common Rust
+62.78,30.11,90.22,Downy Mildew
+180.56,19.67,55.89,Fusarium Stalk Rot
+140.89,27.33,92.17,Northern Corn Leaf Blight
+10.45,33.56,85.63,Southern Corn Leaf Blight
+75.23,21.89,60.78,Anthracnose
+155.67,18.34,48.56,Gray Leaf Spot
+30.12,29.45,95.12,Downy Mildew
+190.45,24.67,50.23,Southern Rust
+45.89,17.12,77.89,Maize Dwarf Mosaic
+132.78,31.45,88.34,Anthracnose
+80.34,20.56,93.67,Common Rust
+175.23,28.89,70.12,Fusarium Stalk Rot
+110.45,16.78,80.23,Northern Corn Leaf Blight
+25.78,34.12,55.67,Southern Rust
+160.89,22.45,45.89,Gray Leaf Spot
+5.45,30.78,75.34,Downy Mildew
+120.67,19.23,60.45,Maize Dwarf Mosaic
+185.34,27.67,85.12,Anthracnose
+70.12,24.89,90.78,Common Rust
+150.45,32.34,65.89,Fusarium Stalk Rot
+90.67,29.12,95.45,Downy Mildew
+165.34,20.78,70.67,Northern Corn Leaf Blight
+20.45,33.45,80.12,Southern Corn Leaf Blight
+130.89,25.67,55.78,Southern Rust
+100.23,17.89,90.34,Maize Dwarf Mosaic
+180.67,31.23,60.45,Fusarium Stalk Rot
+60.89,19.45,75.67,Common Rust
+140.23,27.89,85.12,Anthracnose
+10.67,34.56,70.23,Southern Rust
+170.45,22.12,50.89,Gray Leaf Spot
+5.23,29.78,95.34,Downy Mildew
+120.89,18.67,65.45,Northern Corn Leaf Blight
+185.67,26.23,80.12,Fusarium Stalk Rot
+70.45,32.89,55.67,Anthracnose
+150.23,20.45,90.78,Common Rust
+90.12,31.23,85.45,Downy Mildew
+165.67,17.89,60.12,Northern Corn Leaf Blight
+20.23,33.45,75.67,Southern Corn Leaf Blight
+130.45,25.12,50.89,Southern Rust
+100.67,19.78,95.23,Maize Dwarf Mosaic
+180.23,27.45,65.34,Fusarium Stalk Rot
+60.45,30.89,80.12,Common Rust
+140.67,22.23,55.67,Anthracnose
+10.89,34.12,70.45,Southern Rust
+170.23,18.45,90.78,Gray Leaf Spot
+5.67,29.23,60.12,Downy Mildew
+120.45,26.89,85.34,Northern Corn Leaf Blight
+185.23,32.45,50.67,Fusarium Stalk Rot
+70.67,20.12,75.89,Anthracnose
+150.45,24.78,95.23,Common Rust
+90.45,17.89,80.12,Downy Mildew
+165.23,25.67,55.67,Northern Corn Leaf Blight
+20.67,33.23,70.45,Southern Corn Leaf Blight
+130.23,19.45,90.78,Southern Rust
+100.45,27.89,60.12,Maize Dwarf Mosaic
+180.67,30.23,85.34,Fusarium Stalk Rot
+60.23,22.45,50.67,Common Rust
+140.45,34.12,75.89,Anthracnose
+10.23,18.67,95.23,Southern Rust
+170.67,26.23,65.34,Gray Leaf Spot
+5.45,32.89,80.12,Downy Mildew
+120.23,20.12,55.67,Northern Corn Leaf Blight
+185.45,24.78,70.45,Fusarium Stalk Rot
+70.23,31.45,90.78,Anthracnose
+150.67,17.89,60.12,Common Rust
+90.23,33.23,50.67,Downy Mildew
+165.45,19.45,75.89,Northern Corn Leaf Blight
+20.23,27.89,95.23,Southern Corn Leaf Blight
+130.67,30.23,65.34,Southern Rust
+100.23,22.45,80.12,Maize Dwarf Mosaic
+180.45,34.12,55.67,Fusarium Stalk Rot
+60.67,18.67,70.45,Common Rust
+140.23,26.23,90.78,Anthracnose
+10.45,32.89,60.12,Southern Rust
+170.23,20.12,85.34,Gray Leaf Spot
+5.23,24.78,50.67,Downy Mildew
+120.67,31.45,75.89,Northern Corn Leaf Blight
+185.23,17.89,95.23,Fusarium Stalk Rot
+70.45,25.67,65.34,Anthracnose
+150.23,33.23,80.12,Common Rust
+90.45,27.89,70.45,Downy Mildew
+165.23,30.23,90.78,Northern Corn Leaf Blight
+20.45,22.45,60.12,Southern Corn Leaf Blight
+130.23,34.12,85.34,Southern Rust
+100.67,18.67,50.67,Maize Dwarf Mosaic
+180.23,26.23,75.89,Fusarium Stalk Rot
+60.45,32.89,95.23,Common Rust
+140.67,20.12,65.34,Anthracnose
+10.23,24.78,80.12,Southern Rust
+170.45,31.45,55.67,Gray Leaf Spot
+5.67,17.89,70.45,Downy Mildew
+120.23,25.67,90.78,Northern Corn Leaf Blight
+185.45,33.23,60.12,Fusarium Stalk Rot
+70.23,19.45,85.34,Anthracnose
+150.67,27.89,50.67,Common Rust
+90.23,22.45,95.23,Downy Mildew
+165.45,34.12,65.34,Northern Corn Leaf Blight
+20.23,18.67,80.12,Southern Corn Leaf Blight
+130.67,26.23,55.67,Southern Rust
+100.45,32.89,70.45,Maize Dwarf Mosaic
+180.23,20.12,90.78,Fusarium Stalk Rot
+60.67,24.78,60.12,Common Rust
+140.45,31.45,85.34,Anthracnose
+10.23,17.89,50.67,Southern Rust
+170.67,25.67,75.89,Gray Leaf Spot
+5.45,33.23,95.23,Downy Mildew
+120.23,19.45,65.34,Northern Corn Leaf Blight
+185.67,27.89,80.12,Fusarium Stalk Rot
+70.45,30.23,55.67,Anthracnose
+150.23,22.45,70.45,Common Rust
+90.45,18.67,60.12,Downy Mildew
+165.23,26.23,85.34,Northern Corn Leaf Blight
+20.67,32.89,50.67,Southern Corn Leaf Blight
+130.45,20.12,75.89,Southern Rust
+100.23,24.78,95.23,Maize Dwarf Mosaic
+180.67,31.45,65.34,Fusarium Stalk Rot
+60.45,17.89,80.12,Common Rust
+140.23,25.67,55.67,Anthracnose
+10.67,33.23,70.45,Southern Rust
+170.45,19.45,90.78,Gray Leaf Spot
+5.23,27.89,60.12,Downy Mildew
+120.67,30.23,85.34,Northern Corn Leaf Blight
+185.23,22.45,50.67,Fusarium Stalk Rot
+70.67,34.12,75.89,Anthracnose
+150.45,18.67,95.23,Common Rust
+90.67,32.89,80.12,Downy Mildew
+165.45,20.12,55.67,Northern Corn Leaf Blight
+20.45,24.78,70.45,Southern Corn Leaf Blight
+130.23,31.45,90.78,Southern Rust
+100.67,17.89,60.12,Maize Dwarf Mosaic
+180.45,25.67,85.34,Fusarium Stalk Rot
+60.23,33.23,50.67,Common Rust
+140.67,19.45,75.89,Anthracnose
+10.45,27.89,95.23,Southern Rust
+170.23,30.23,65.34,Gray Leaf Spot
+5.67,22.45,80.12,Downy Mildew
+120.45,34.12,55.67,Northern Corn Leaf Blight
+185.67,18.67,70.45,Fusarium Stalk Rot
+70.23,26.23,90.78,Anthracnose
+150.45,32.89,60.12,Common Rust
+90.45,24.78,50.67,Downy Mildew
+165.23,31.45,75.89,Northern Corn Leaf Blight
+20.23,17.89,95.23,Southern Corn Leaf Blight
+130.67,25.67,65.34,Southern Rust
+100.45,33.23,80.12,Maize Dwarf Mosaic
+180.23,19.45,55.67,Fusarium Stalk Rot
+60.67,27.89,70.45,Common Rust
+140.45,30.23,90.78,Anthracnose
+10.23,22.45,60.12,Southern Rust
+170.67,34.12,85.34,Gray Leaf Spot
+5.45,18.67,50.67,Downy Mildew
+120.23,26.23,75.89,Northern Corn Leaf Blight
+185.45,32.89,95.23,Fusarium Stalk Rot
+70.67,20.12,65.34,Anthracnose
+150.23,24.78,80.12,Common Rust
+90.23,17.89,70.45,Downy Mildew
+165.67,25.67,90.78,Northern Corn Leaf Blight
+20.45,33.23,60.12,Southern Corn Leaf Blight
+130.23,19.45,85.34,Southern Rust
+100.67,27.89,50.67,Maize Dwarf Mosaic
+180.45,30.23,75.89,Fusarium Stalk Rot
+60.23,22.45,95.23,Common Rust
+140.67,34.12,65.34,Anthracnose
+10.45,18.67,80.12,Southern Rust
+170.23,26.23,55.67,Gray Leaf Spot
+5.23,32.89,70.45,Downy Mildew
+120.67,20.12,90.78,Northern Corn Leaf Blight
+185.23,24.78,60.12,Fusarium Stalk Rot
+70.45,31.45,85.34,Anthracnose
+150.67,17.89,50.67,Common Rust
+90.45,33.23,95.23,Downy Mildew
+165.23,19.45,65.34,Northern Corn Leaf Blight
+20.67,27.89,80.12,Southern Corn Leaf Blight
+130.45,30.23,55.67,Southern Rust
+100.23,22.45,70.45,Maize Dwarf Mosaic
+180.67,34.12,90.78,Fusarium Stalk Rot
+60.45,18.67,60.12,Common Rust
+140.23,26.23,85.34,Anthracnose
+10.67,32.89,50.67,Southern Rust
+170.45,20.12,75.89,Gray Leaf Spot
+5.23,24.78,95.23,Downy Mildew
+120.45,31.45,65.34,Northern Corn Leaf Blight
+185.67,17.89,80.12,Fusarium Stalk Rot
+70.23,25.67,55.67,Anthracnose
+150.45,33.23,70.45,Common Rust
+90.23,27.89,60.12,Downy Mildew
+165.45,30.23,85.34,Northern Corn Leaf Blight
+20.23,22.45,50.67,Southern Corn Leaf Blight
+130.67,34.12,75.89,Southern Rust
+100.45,18.67,95.23,Maize Dwarf Mosaic
+180.23,26.23,65.34,Fusarium Stalk Rot
+60.67,32.89,80.12,Common Rust
+140.45,20.12,55.67,Anthracnose
+10.23,24.78,70.45,Southern Rust
+170.67,31.45,90.78,Gray Leaf Spot
+5.45,17.89,60.12,Downy Mildew
+120.23,25.67,85.34,Northern Corn Leaf Blight
+185.45,33.23,50.67,Fusarium Stalk Rot
+70.67,19.45,75.89,Anthracnose
+150.23,27.89,95.23,Common Rust
+90.67,22.45,80.12,Downy Mildew
+165.23,34.12,55.67,Northern Corn Leaf Blight
+20.45,18.67,70.45,Southern Corn Leaf Blight
+130.23,26.23,90.78,Southern Rust
+100.67,32.89,60.12,Maize Dwarf Mosaic
+180.45,20.12,85.34,Fusarium Stalk Rot
+60.23,24.78,50.67,Common Rust
+140.67,31.45,75.89,Anthracnose
+10.45,17.89,95.23,Southern Rust
+170.23,25.67,65.34,Gray Leaf Spot
+5.23,33.23,80.12,Downy Mildew
+120.45,19.45,55.67,Northern Corn Leaf Blight
+185.67,27.89,70.45,Fusarium Stalk Rot
+70.23,30.23,90.78,Anthracnose
+150.45,22.45,60.12,Common Rust
+90.45,18.67,50.67,Downy Mildew
+165.23,26.23,75.89,Northern Corn Leaf Blight
+20.23,32.89,95.23,Southern Corn Leaf Blight
+130.67,20.12,65.34,Southern Rust
+100.45,24.78,80.12,Maize Dwarf Mosaic
+180.23,31.45,55.67,Fusarium Stalk Rot
+60.67,17.89,70.45,Common Rust
+140.45,25.67,90.78,Anthracnose
+10.23,33.23,60.12,Southern Rust
+170.67,19.45,85.34,Gray Leaf Spot
+5.45,27.89,50.67,Downy Mildew
+120.23,30.23,75.89,Northern Corn Leaf Blight
+185.45,22.45,95.23,Fusarium Stalk Rot
+70.67,34.12,65.34,Anthracnose
+150.23,18.67,80.12,Common Rust
+90.23,32.89,70.45,Downy Mildew
+165.67,20.12,90.78,Northern Corn Leaf Blight
+20.45,24.78,60.12,Southern Corn Leaf Blight
+130.23,31.45,85.34,Southern Rust
+100.67,17.89,50.67,Maize Dwarf Mosaic
+180.45,25.67,75.89,Fusarium Stalk Rot
+60.23,33.23,95.23,Common Rust
+140.67,19.45,65.34,Anthracnose
+10.45,27.89,80.12,Southern Rust
+170.23,30.23,55.67,Gray Leaf Spot
+5.23,22.45,70.45,Downy Mildew
+120.67,34.12,90.78,Northern Corn Leaf Blight
+185.23,18.67,60.12,Fusarium Stalk Rot
+70.45,26.23,85.34,Anthracnose
+150.67,32.89,50.67,Common Rust
+90.45,24.78,95.23,Downy Mildew
+165.23,31.45,65.34,Northern Corn Leaf Blight
+20.67,17.89,80.12,Southern Corn Leaf Blight
+130.45,25.67,55.67,Southern Rust
+100.23,33.23,70.45,Maize Dwarf Mosaic
+180.67,19.45,90.78,Fusarium Stalk Rot
+60.45,27.89,60.12,Common Rust
+140.23,30.23,85.34,Anthracnose
+10.67,22.45,50.67,Southern Rust
+170.45,34.12,75.89,Gray Leaf Spot
+5.23,18.67,95.23,Downy Mildew
+120.23,26.23,65.34,Northern Corn Leaf Blight
+185.67,32.89,80.12,Fusarium Stalk Rot
+70.23,20.12,55.67,Anthracnose
+150.45,24.78,70.45,Common Rust
+90.23,17.89,60.12,Downy Mildew
+165.45,25.67,85.34,Northern Corn Leaf Blight
+20.23,33.23,50.67,Southern Corn Leaf Blight
+130.67,19.45,75.89,Southern Rust
+100.45,27.89,95.23,Maize Dwarf Mosaic
+180.23,30.23,65.34,Fusarium Stalk Rot
+60.67,22.45,80.12,Common Rust
+140.45,34.12,55.67,Anthracnose
+10.23,18.67,70.45,Southern Rust
+170.67,26.23,90.78,Gray Leaf Spot
+5.45,32.89,60.12,Downy Mildew
+120.23,20.12,85.34,Northern Corn Leaf Blight
+185.45,24.78,50.67,Fusarium Stalk Rot
+70.67,31.45,75.89,Anthracnose
+150.23,17.89,95.23,Common Rust
+90.67,33.23,80.12,Downy Mildew
+165.23,19.45,55.67,Northern Corn Leaf Blight
+20.45,27.89,70.45,Southern Corn Leaf Blight
+130.23,30.23,90.78,Southern Rust
+100.67,22.45,60.12,Maize Dwarf Mosaic
+180.45,34.12,85.34,Fusarium Stalk Rot
+60.23,18.67,50.67,Common Rust
+140.67,26.23,75.89,Anthracnose
+10.45,32.89,95.23,Southern Rust
+170.23,20.12,65.34,Gray Leaf Spot
+5.23,24.78,80.12,Downy Mildew
+120.67,31.45,55.67,Northern Corn Leaf Blight
+185.23,17.89,70.45,Fusarium Stalk Rot
+70.45,25.67,90.78,Anthracnose
+150.67,33.23,60.12,Common Rust
+90.45,27.89,50.67,Downy Mildew
+165.23,30.23,75.89,Northern Corn Leaf Blight
+20.67,22.45,95.23,Southern Corn Leaf Blight
+130.45,34.12,65.34,Southern Rust
+100.23,18.67,80.12,Maize Dwarf Mosaic
+180.67,26.23,55.67,Fusarium Stalk Rot
+60.45,32.89,70.45,Common Rust
+140.23,20.12,90.78,Anthracnose
+10.67,24.78,60.12,Southern Rust
+170.45,31.45,85.34,Gray Leaf Spot
+5.23,17.89,50.67,Downy Mildew
+120.23,25.67,75.89,Northern Corn Leaf Blight
+185.67,33.23,95.23,Fusarium Stalk Rot
+70.23,19.45,65.34,Anthracnose
+150.45,27.89,80.12,Common Rust
+90.23,22.45,70.45,Downy Mildew
+165.45,34.12,90.78,Northern Corn Leaf Blight
+20.23,18.67,60.12,Southern Corn Leaf Blight
+130.67,26.23,85.34,Southern Rust
+100.45,32.89,50.67,Maize Dwarf Mosaic
+180.23,20.12,75.89,Fusarium Stalk Rot
+60.67,24.78,95.23,Common Rust
+140.45,31.45,65.34,Anthracnose
+10.23,17.89,80.12,Southern Rust
+170.67,25.67,55.67,Gray Leaf Spot
+5.45,33.23,70.45,Downy Mildew
+120.23,19.45,90.78,Northern Corn Leaf Blight
+185.45,27.89,60.12,Fusarium Stalk Rot
+70.67,30.23,85.34,Anthracnose
+150.23,22.45,50.67,Common Rust
+90.67,18.67,95.23,Downy Mildew
+165.23,26.23,65.34,Northern Corn Leaf Blight
+20.45,32.89,80.12,Southern Corn Leaf Blight
+130.23,20.12,55.67,Southern Rust
+100.67,24.78,70.45,Maize Dwarf Mosaic
+180.45,31.45,90.78,Fusarium Stalk Rot
+60.23,17.89,60.12,Common Rust
+140.67,25.67,85.34,Anthracnose
+10.45,33.23,50.67,Southern Rust
+170.23,19.45,75.89,Gray Leaf Spot
+5.23,27.89,95.23,Downy Mildew
+120.67,30.23,65.34,Northern Corn Leaf Blight
+185.23,22.45,80.12,Fusarium Stalk Rot
+70.45,34.12,55.67,Anthracnose
+150.67,18.67,70.45,Common Rust
+90.45,32.89,60.12,Downy Mildew
+165.23,20.12,85.34,Northern Corn Leaf Blight
+20.67,24.78,50.67,Southern Corn Leaf Blight
+130.45,31.45,75.89,Southern Rust
+100.23,17.89,95.23,Maize Dwarf Mosaic
+180.67,25.67,65.34,Fusarium Stalk Rot
+60.45,33.23,80.12,Common Rust
+140.23,19.45,55.67,Anthracnose
+10.67,27.89,70.45,Southern Rust
+170.45,30.23,90.78,Gray Leaf Spot
+5.23,22.45,60.12,Downy Mildew
+120.23,34.12,85.34,Northern Corn Leaf Blight
+185.67,18.67,50.67,Fusarium Stalk Rot
+70.23,26.23,75.89,Anthracnose
+150.67,32.89,95.23,Common Rust
+90.23,24.78,80.12,Downy Mildew
+165.45,31.45,55.67,Northern Corn Leaf Blight
+20.23,17.89,70.45,Southern Corn Leaf Blight
+130.67,25.67,90.78,Southern Rust
+100.45,33.23,60.12,Maize Dwarf Mosaic
+180.23,19.45,85.34,Fusarium Stalk Rot
+60.67,27.89,50.67,Common Rust
+140.45,30.23,75.89,Anthracnose
+10.23,22.45,95.23,Southern Rust
+170.67,34.12,65.34,Gray Leaf Spot
+5.45,18.67,80.12,Downy Mildew
+120.23,26.23,55.67,Northern Corn Leaf Blight
+185.45,32.89,70.45,Fusarium Stalk Rot
+70.67,20.12,90.78,Anthracnose
+150.23,24.78,60.12,Common Rust
+90.67,17.89,50.67,Downy Mildew
+165.23,25.67,75.89,Northern Corn Leaf Blight
+20.45,33.23,95.23,Southern Corn Leaf Blight
+130.23,19.45,65.34,Southern Rust
+100.67,27.89,80.12,Maize Dwarf Mosaic
+180.45,30.23,55.67,Fusarium Stalk Rot
+60.23,22.45,70.45,Common Rust
+140.67,34.12,90.78,Anthracnose
+10.45,18.67,60.12,Southern Rust
+170.23,26.23,85.34,Gray Leaf Spot
+5.23,32.89,50.67,Downy Mildew
+120.67,20.12,75.89,Northern Corn Leaf Blight
+185.23,24.78,95.23,Fusarium Stalk Rot
+70.45,31.45,65.34,Anthracnose
+150.45,17.89,80.12,Common Rust
+90.23,33.23,70.45,Downy Mildew
+165.45,19.45,90.78,Northern Corn Leaf Blight
+20.23,27.89,60.12,Southern Corn Leaf Blight
+130.67,30.23,85.34,Southern Rust
+100.45,22.45,50.67,Maize Dwarf Mosaic
+180.23,34.12,75.89,Fusarium Stalk Rot
+60.67,18.67,95.23,Common Rust
+140.45,26.23,65.34,Anthracnose
+10.23,32.89,80.12,Southern Rust
+170.67,20.12,55.67,Gray Leaf Spot
+5.45,24.78,70.45,Downy Mildew
+120.23,31.45,90.78,Northern Corn Leaf Blight
+185.45,17.89,60.12,Fusarium Stalk Rot
+70.67,25.67,85.34,Anthracnose
+150.23,33.23,50.67,Common Rust
+90.45,27.89,95.23,Downy Mildew
+165.23,30.23,65.34,Northern Corn Leaf Blight
+20.67,22.45,80.12,Southern Corn Leaf Blight
+130.45,34.12,55.67,Southern Rust
+100.23,18.67,70.45,Maize Dwarf Mosaic
+180.67,26.23,90.78,Fusarium Stalk Rot
+60.45,32.89,60.12,Common Rust
+140.23,20.12,85.34,Anthracnose
+10.67,24.78,50.67,Southern Rust
+170.45,31.45,75.89,Gray Leaf Spot
+5.23,17.89,95.23,Downy Mildew
+120.67,25.67,65.34,Northern Corn Leaf Blight
+185.23,33.23,80.12,Fusarium Stalk Rot
+70.45,19.45,55.67,Anthracnose
+150.67,27.89,70.45,Common Rust
+90.45,22.45,60.12,Downy Mildew
+165.23,34.12,85.34,Northern Corn Leaf Blight
+20.45,18.67,50.67,Southern Corn Leaf Blight
+130.23,26.23,75.89,Southern Rust
+100.67,32.89,95.23,Maize Dwarf Mosaic
+180.45,20.12,65.34,Fusarium Stalk Rot
+60.67,24.78,80.12,Common Rust
+140.45,31.45,55.67,Anthracnose
+10.23,17.89,70.45,Southern Rust
+170.67,25.67,90.78,Gray Leaf Spot
+5.45,33.23,60.12,Downy Mildew
+120.23,19.45,85.34,Northern Corn Leaf Blight
+185.45,27.89,50.67,Fusarium Stalk Rot
+70.67,30.23,75.89,Anthracnose
+150.23,22.45,95.23,Common Rust
+90.23,18.67,80.12,Downy Mildew
+165.67,26.23,55.67,Northern Corn Leaf Blight
+20.23,32.89,70.45,Southern Corn Leaf Blight
+130.67,20.12,90.78,Southern Rust
+100.45,24.78,60.12,Maize Dwarf Mosaic
+180.23,31.45,85.34,Fusarium Stalk Rot
+60.67,17.89,50.67,Common Rust
+140.45,25.67,75.89,Anthracnose
+10.67,33.23,95.23,Southern Rust
+170.45,19.45,65.34,Gray Leaf Spot
+5.23,27.89,80.12,Downy Mildew
+120.67,30.23,55.67,Northern Corn Leaf Blight
+185.23,22.45,70.45,Fusarium Stalk Rot
+70.45,34.12,90.78,Anthracnose
+150.67,18.67,60.12,Common Rust
+90.45,32.89,50.67,Downy Mildew
+165.23,20.12,75.89,Northern Corn Leaf Blight
+20.67,24.78,95.23,Southern Corn Leaf Blight
+130.45,31.45,65.34,Southern Rust
+100.23,17.89,80.12,Maize Dwarf Mosaic
+180.67,25.67,55.67,Fusarium Stalk Rot
+60.45,33.23,70.45,Common Rust
+140.23,19.45,90.78,Anthracnose
+10.67,27.89,60.12,Southern Rust
+170.45,30.23,85.34,Gray Leaf Spot
+5.23,22.45,50.67,Downy Mildew
+120.23,34.12,75.89,Northern Corn Leaf Blight
+185.67,18.67,95.23,Fusarium Stalk Rot
+70.23,26.23,65.34,Anthracnose
+150.67,32.89,80.12,Common Rust
+90.23,24.78,70.45,Downy Mildew
+165.45,31.45,90.78,Northern Corn Leaf Blight
+20.23,17.89,60.12,Southern Corn Leaf Blight
+130.67,25.67,85.34,Southern Rust
+100.45,33.23,50.67,Maize Dwarf Mosaic
+180.23,19.45,75.89,Fusarium Stalk Rot
+60.67,27.89,95.23,Common Rust
+140.45,30.23,65.34,Anthracnose
+10.23,22.45,80.12,Southern Rust
+170.67,34.12,55.67,Gray Leaf Spot
+5.45,18.67,70.45,Downy Mildew
+120.23,26.23,90.78,Northern Corn Leaf Blight
+185.45,32.89,60.12,Fusarium Stalk Rot
+70.67,20.12,85.34,Anthracnose
+150.23,24.78,50.67,Common Rust
+90.67,17.89,95.23,Downy Mildew
+165.23,25.67,65.34,Northern Corn Leaf Blight
+20.45,33.23,80.12,Southern Corn Leaf Blight
+130.23,19.45,55.67,Southern Rust
+100.67,27.89,70.45,Maize Dwarf Mosaic
+180.45,30.23,90.78,Fusarium Stalk Rot
+60.23,22.45,60.12,Common Rust
+140.67,34.12,85.34,Anthracnose
+10.45,18.67,50.67,Southern Rust
+170.23,26.23,75.89,Gray Leaf Spot
+5.23,32.89,95.23,Downy Mildew
+120.67,20.12,65.34,Northern Corn Leaf Blight
+185.23,24.78,80.12,Fusarium Stalk Rot
+70.45,31.45,55.67,Anthracnose
+150.67,17.89,70.45,Common Rust
+90.45,33.23,60.12,Downy Mildew
+165.23,19.45,85.34,Northern Corn Leaf Blight
+20.67,27.89,50.67,Southern Corn Leaf Blight
+130.45,30.23,75.89,Southern Rust
+100.23,22.45,95.23,Maize Dwarf Mosaic
+180.67,34.12,65.34,Fusarium Stalk Rot
+60.45,18.67,80.12,Common Rust
+140.23,26.23,55.67,Anthracnose
+10.67,32.89,70.45,Southern Rust
+170.45,20.12,90.78,Gray Leaf Spot
+5.23,24.78,60.12,Downy Mildew
+120.45,31.45,85.34,Northern Corn Leaf Blight
+185.67,17.89,50.67,Fusarium Stalk Rot
+70.23,25.67,75.89,Anthracnose
+150.45,33.23,95.23,Common Rust
+90.23,27.89,80.12,Downy Mildew
+165.45,30.23,55.67,Northern Corn Leaf Blight
+20.23,22.45,70.45,Southern Corn Leaf Blight
+130.67,34.12,90.78,Southern Rust
+100.45,18.67,60.12,Maize Dwarf Mosaic
+180.23,26.23,85.34,Fusarium Stalk Rot
+60.67,32.89,50.67,Common Rust
+140.45,20.12,75.89,Anthracnose
+10.23,24.78,95.23,Southern Rust
+170.67,31.45,65.34,Gray Leaf Spot
+5.45,17.89,80.12,Downy Mildew
+120.23,25.67,55.67,Northern Corn Leaf Blight
+185.45,33.23,70.45,Fusarium Stalk Rot
+70.67,19.45,90.78,Anthracnose
+150.23,27.89,60.12,Common Rust
+90.67,22.45,50.67,Downy Mildew
+165.23,34.12,75.89,Northern Corn Leaf Blight
+20.45,18.67,95.23,Southern Corn Leaf Blight
+130.23,26.23,65.34,Southern Rust
+100.67,32.89,80.12,Maize Dwarf Mosaic
+180.45,20.12,55.67,Fusarium Stalk Rot
+60.23,24.78,70.45,Common Rust
+140.67,31.45,90.78,Anthracnose
+10.45,17.89,60.12,Southern Rust
+170.23,25.67,85.34,Gray Leaf Spot
+5.23,33.23,50.67,Downy Mildew
+120.67,19.45,75.89,Northern Corn Leaf Blight
+185.23,27.89,95.23,Fusarium Stalk Rot
+70.45,30.23,65.34,Anthracnose
+150.67,22.45,80.12,Common Rust
+90.45,18.67,70.45,Downy Mildew
+165.23,26.23,90.78,Northern Corn Leaf Blight
+20.67,32.89,60.12,Southern Corn Leaf Blight
+130.45,20.12,85.34,Southern Rust
+100.23,24.78,50.67,Maize Dwarf Mosaic
+180.67,31.45,75.89,Fusarium Stalk Rot
+60.45,17.89,95.23,Common Rust
+140.23,25.67,65.34,Anthracnose
+10.67,33.23,80.12,Southern Rust
+170.45,19.45,55.67,Gray Leaf Spot
+5.23,27.89,70.45,Downy Mildew
+120.45,30.23,90.78,Northern Corn Leaf Blight
+185.67,22.45,60.12,Fusarium Stalk Rot
+70.23,34.12,85.34,Anthracnose
+150.45,18.67,50.67,Common Rust
+90.23,32.89,95.23,Downy Mildew
+165.45,20.12,65.34,Northern Corn Leaf Blight
+20.23,24.78,80.12,Southern Corn Leaf Blight
+130.67,31.45,55.67,Southern Rust
+100.45,17.89,70.45,Maize Dwarf Mosaic
+180.23,25.67,90.78,Fusarium Stalk Rot
+60.67,33.23,60.12,Common Rust
+140.45,19.45,85.34,Anthracnose
+10.23,27.89,50.67,Southern Rust
+170.67,30.23,75.89,Gray Leaf Spot
+5.45,22.45,95.23,Downy Mildew
+120.23,34.12,65.34,Northern Corn Leaf Blight
+185.45,18.67,80.12,Fusarium Stalk Rot
+70.67,26.23,55.67,Anthracnose
+150.23,32.89,70.45,Common Rust
+90.45,24.78,60.12,Downy Mildew
+165.23,31.45,85.34,Northern Corn Leaf Blight
+20.45,17.89,50.67,Southern Corn Leaf Blight
+130.23,25.67,75.89,Southern Rust
+100.67,33.23,95.23,Maize Dwarf Mosaic
+180.45,19.45,65.34,Fusarium Stalk Rot
+60.23,27.89,80.12,Common Rust
+140.67,30.23,55.67,Anthracnose
+10.45,22.45,70.45,Southern Rust
+170.23,34.12,90.78,Gray Leaf Spot
+5.23,18.67,60.12,Downy Mildew
+120.67,26.23,85.34,Northern Corn Leaf Blight
+185.23,32.89,50.67,Fusarium Stalk Rot
+70.45,20.12,75.89,Anthracnose
+150.67,24.78,95.23,Common Rust
+90.23,17.89,80.12,Downy Mildew
+165.45,25.67,55.67,Northern Corn Leaf Blight
+20.67,33.23,70.45,Southern Corn Leaf Blight
+130.45,19.45,90.78,Southern Rust
+100.23,27.89,60.12,Maize Dwarf Mosaic
+180.67,30.23,85.34,Fusarium Stalk Rot
+60.45,22.45,50.67,Common Rust
+140.23,34.12,75.89,Anthracnose
+10.67,18.67,95.23,Southern Rust
+170.45,26.23,65.34,Gray Leaf Spot
+5.23,32.89,80.12,Downy Mildew
+120.45,20.12,55.67,Northern Corn Leaf Blight
+185.67,24.78,70.45,Fusarium Stalk Rot
+70.23,31.45,90.78,Anthracnose
+150.67,17.89,60.12,Common Rust
+90.23,33.23,50.67,Downy Mildew
+165.23,19.45,75.89,Northern Corn Leaf Blight
+20.45,27.89,95.23,Southern Corn Leaf Blight
+130.67,30.23,65.34,Southern Rust
+100.45,22.45,80.12,Maize Dwarf Mosaic
+180.23,34.12,55.67,Fusarium Stalk Rot
+60.67,18.67,70.45,Common Rust
+140.45,26.23,90.78,Anthracnose
+10.23,32.89,60.12,Southern Rust
+170.67,20.12,85.34,Gray Leaf Spot
+5.45,24.78,50.67,Downy Mildew
+120.23,31.45,75.89,Northern Corn Leaf Blight
+185.45,17.89,95.23,Fusarium Stalk Rot
+70.67,25.67,65.34,Anthracnose
+150.23,33.23,80.12,Common Rust
+90.67,27.89,70.45,Downy Mildew
+165.23,30.23,90.78,Northern Corn Leaf Blight
+20.23,22.45,60.12,Southern Corn Leaf Blight
+130.45,34.12,85.34,Southern Rust
+100.23,18.67,50.67,Maize Dwarf Mosaic
+180.67,26.23,75.89,Fusarium Stalk Rot
+60.45,32.89,95.23,Common Rust
+140.23,20.12,65.34,Anthracnose
+10.67,24.78,80.12,Southern Rust
+170.45,31.45,55.67,Gray Leaf Spot
+5.23,17.89,70.45,Downy Mildew
+120.67,25.67,90.78,Northern Corn Leaf Blight
+185.23,33.23,60.12,Fusarium Stalk Rot
+70.45,19.45,85.34,Anthracnose
+150.67,27.89,50.67,Common Rust
+90.45,22.45,95.23,Downy Mildew
+165.23,34.12,65.34,Northern Corn Leaf Blight
+20.45,18.67,80.12,Southern Corn Leaf Blight
+130.23,26.23,55.67,Southern Rust
+100.67,32.89,70.45,Maize Dwarf Mosaic
+180.45,20.12,90.78,Fusarium Stalk Rot
+60.23,24.78,60.12,Common Rust
+140.67,31.45,85.34,Anthracnose
+10.45,17.89,50.67,Southern Rust
+170.23,25.67,75.89,Gray Leaf Spot
+5.23,33.23,95.23,Downy Mildew
+120.45,19.45,65.34,Northern Corn Leaf Blight
+185.67,27.89,80.12,Fusarium Stalk Rot
+70.23,30.23,55.67,Anthracnose
+150.45,22.45,70.45,Common Rust
+90.23,18.67,60.12,Downy Mildew
+165.45,26.23,85.34,Northern Corn Leaf Blight
+20.23,32.89,50.67,Southern Corn Leaf Blight
+130.67,20.12,75.89,Southern Rust
+100.45,24.78,95.23,Maize Dwarf Mosaic
+180.23,31.45,65.34,Fusarium Stalk Rot
+60.67,17.89,80.12,Common Rust
+140.45,25.67,55.67,Anthracnose
+10.23,33.23,70.45,Southern Rust
+170.67,19.45,90.78,Gray Leaf Spot
+5.45,27.89,60.12,Downy Mildew
+120.23,30.23,85.34,Northern Corn Leaf Blight
+185.45,22.45,50.67,Fusarium Stalk Rot
+70.67,34.12,75.89,Anthracnose
+150.23,18.67,95.23,Common Rust
+90.67,32.89,80.12,Downy Mildew
+165.23,20.12,55.67,Northern Corn Leaf Blight
+20.45,24.78,70.45,Southern Corn Leaf Blight
+130.23,31.45,90.78,Southern Rust
+100.67,17.89,60.12,Maize Dwarf Mosaic
+180.45,25.67,85.34,Fusarium Stalk Rot
+60.23,33.23,50.67,Common Rust
+140.67,19.45,75.89,Anthracnose
+10.45,27.89,95.23,Southern Rust
+170.23,30.23,65.34,Gray Leaf Spot
+5.23,22.45,80.12,Downy Mildew
+120.67,34.12,55.67,Northern Corn Leaf Blight
+185.23,18.67,70.45,Fusarium Stalk Rot
+70.45,26.23,90.78,Anthracnose
+150.67,32.89,60.12,Common Rust
+90.45,24.78,50.67,Downy Mildew
+165.23,31.45,75.89,Northern Corn Leaf Blight
+20.67,17.89,95.23,Southern Corn Leaf Blight
+130.45,25.67,65.34,Southern Rust
+100.23,33.23,80.12,Maize Dwarf Mosaic
+180.67,19.45,55.67,Fusarium Stalk Rot
+60.45,27.89,70.45,Common Rust
+140.23,30.23,90.78,Anthracnose
+10.67,22.45,60.12,Southern Rust
+170.45,34.12,85.34,Gray Leaf Spot
+5.23,18.67,50.67,Downy Mildew
+120.23,26.23,75.89,Northern Corn Leaf Blight
+185.67,32.89,95.23,Fusarium Stalk Rot
+70.23,20.12,65.34,Anthracnose
+150.67,24.78,80.12,Common Rust
+90.23,17.89,70.45,Downy Mildew
+165.45,25.67,90.78,Northern Corn Leaf Blight
+20.23,33.23,60.12,Southern Corn Leaf Blight
+130.67,19.45,85.34,Southern Rust
+100.45,27.89,50.67,Maize Dwarf Mosaic
+180.23,30.23,75.89,Fusarium Stalk Rot
+60.67,22.45,95.23,Common Rust
+140.45,34.12,65.34,Anthracnose
+10.23,18.67,80.12,Southern Rust
+170.67,26.23,55.67,Gray Leaf Spot
+5.45,32.89,70.45,Downy Mildew
+120.23,20.12,90.78,Northern Corn Leaf Blight
+185.45,24.78,60.12,Fusarium Stalk Rot
+70.67,31.45,85.34,Anthracnose
+150.23,17.89,50.67,Common Rust
+90.67,33.23,95.23,Downy Mildew
+165.23,19.45,65.34,Northern Corn Leaf Blight
+20.45,27.89,80.12,Southern Corn Leaf Blight
+130.23,30.23,55.67,Southern Rust
+100.67,22.45,70.45,Maize Dwarf Mosaic
+180.45,34.12,90.78,Fusarium Stalk Rot
+60.23,18.67,60.12,Common Rust
+140.67,26.23,85.34,Anthracnose
+10.45,32.89,50.67,Southern Rust
+170.23,20.12,75.89,Gray Leaf Spot
+5.23,24.78,95.23,Downy Mildew
+120.67,31.45,65.34,Northern Corn Leaf Blight
+185.23,17.89,80.12,Fusarium Stalk Rot
+70.45,25.67,55.67,Anthracnose
+150.67,33.23,70.45,Common Rust
+90.45,27.89,60.12,Downy Mildew
+165.23,30.23,85.34,Northern Corn Leaf Blight
+20.67,22.45,50.67,Southern Corn Leaf Blight
+130.45,34.12,75.89,Southern Rust
+100.23,18.67,95.23,Maize Dwarf Mosaic
+180.67,26.23,65.34,Fusarium Stalk Rot
+60.45,32.89,80.12,Common Rust
+140.23,20.12,55.67,Anthracnose
+10.67,24.78,70.45,Southern Rust
+170.45,31.45,90.78,Gray Leaf Spot
+5.23,17.89,60.12,Downy Mildew
+120.23,25.67,85.34,Northern Corn Leaf Blight
+185.67,33.23,50.67,Fusarium Stalk Rot
+70.23,19.45,75.89,Anthracnose
+150.67,27.89,95.23,Common Rust
+90.23,22.45,80.12,Downy Mildew
+165.45,34.12,55.67,Northern Corn Leaf Blight
+20.23,18.67,70.45,Southern Corn Leaf Blight
+130.67,26.23,90.78,Southern Rust
+100.45,32.89,60.12,Maize Dwarf Mosaic
+180.23,20.12,85.34,Fusarium Stalk Rot
+60.67,24.78,50.67,Common Rust
+140.45,31.45,75.89,Anthracnose
+10.23,17.89,95.23,Southern Rust
+170.67,25.67,65.34,Gray Leaf Spot
+5.45,33.23,80.12,Downy Mildew
+120.23,19.45,55.67,Northern Corn Leaf Blight
+185.45,27.89,70.45,Fusarium Stalk Rot
+70.67,30.23,90.78,Anthracnose
+150.23,22.45,60.12,Common Rust
+90.67,18.67,50.67,Downy Mildew
+165.23,26.23,75.89,Northern Corn Leaf Blight
+20.45,32.89,95.23,Southern Corn Leaf Blight
+130.23,20.12,65.34,Southern Rust
+100.67,24.78,80.12,Maize Dwarf Mosaic
+180.45,31.45,55.67,Fusarium Stalk Rot
+60.23,17.89,70.45,Common Rust
+140.67,25.67,90.78,Anthracnose
+10.45,33.23,60.12,Southern Rust
+170.23,19.45,85.34,Gray Leaf Spot
+5.23,27.89,50.67,Downy Mildew
+120.67,30.23,75.89,Northern Corn Leaf Blight
+185.23,22.45,95.23,Fusarium Stalk Rot
+70.45,34.12,65.34,Anthracnose
+150.67,18.67,80.12,Common Rust
+90.45,32.89,70.45,Downy Mildew
+165.23,20.12,90.78,Northern Corn Leaf Blight
+20.67,24.78,60.12,Southern Corn Leaf Blight
+130.45,31.45,85.34,Southern Rust
+100.23,17.89,50.67,Maize Dwarf Mosaic
+180.67,25.67,75.89,Fusarium Stalk Rot
+60.45,33.23,95.23,Common Rust
+140.23,19.45,65.34,Anthracnose
+10.67,27.89,80.12,Southern Rust
+170.45,30.23,55.67,Gray Leaf Spot
+5.23,22.45,70.45,Downy Mildew
+120.23,34.12,90.78,Northern Corn Leaf Blight
+185.67,18.67,60.12,Fusarium Stalk Rot
+70.23,26.23,85.34,Anthracnose
+150.67,32.89,50.67,Common Rust
+90.23,24.78,95.23,Downy Mildew
+165.45,31.45,65.34,Northern Corn Leaf Blight
+20.23,17.89,80.12,Southern Corn Leaf Blight
+130.67,25.67,55.67,Southern Rust
+100.45,33.23,70.45,Maize Dwarf Mosaic
+180.23,19.45,90.78,Fusarium Stalk Rot
+60.67,27.89,60.12,Common Rust
+140.45,30.23,85.34,Anthracnose
+10.23,22.45,50.67,Southern Rust
+170.67,34.12,75.89,Gray Leaf Spot
+5.45,18.67,95.23,Downy Mildew
+120.23,26.23,65.34,Northern Corn Leaf Blight
+185.45,32.89,80.12,Fusarium Stalk Rot
+70.67,20.12,55.67,Anthracnose
+150.23,24.78,70.45,Common Rust
+90.67,17.89,60.12,Downy Mildew
+165.23,25.67,85.34,Northern Corn Leaf Blight
+20.45,33.23,50.67,Southern Corn Leaf Blight
+130.23,19.45,75.89,Southern Rust
+100.67,27.89,95.23,Maize Dwarf Mosaic
+180.45,30.23,65.34,Fusarium Stalk Rot
+60.23,22.45,80.12,Common Rust
+140.67,34.12,55.67,Anthracnose
+10.45,18.67,70.45,Southern Rust
+170.23,26.23,90.78,Gray Leaf Spot
+5.23,32.89,60.12,Downy Mildew
+120.67,20.12,85.34,Northern Corn Leaf Blight
+185.23,24.78,50.67,Fusarium Stalk Rot
+70.45,31.45,75.89,Anthracnose
+150.67,17.89,95.23,Common Rust
+90.45,33.23,80.12,Downy Mildew
+165.23,19.45,55.67,Northern Corn Leaf Blight
+20.67,27.89,70.45,Southern Corn Leaf Blight
+130.45,30.23,90.78,Southern Rust
+100.23,22.45,60.12,Maize Dwarf Mosaic
+180.67,34.12,85.34,Fusarium Stalk Rot
+60.45,18.67,50.67,Common Rust
+140.23,26.23,75.89,Anthracnose
+10.67,32.89,95.23,Southern Rust
+170.45,20.12,65.34,Gray Leaf Spot
+5.23,24.78,80.12,Downy Mildew
+120.45,31.45,55.67,Northern Corn Leaf Blight
+185.67,17.89,70.45,Fusarium Stalk Rot
+70.23,25.67,90.78,Anthracnose
+150.45,33.23,60.12,Common Rust
+90.23,27.89,50.67,Downy Mildew
+165.45,30.23,75.89,Northern Corn Leaf Blight
+20.23,22.45,95.23,Southern Corn Leaf Blight
+130.67,34.12,65.34,Southern Rust
+100.45,18.67,80.12,Maize Dwarf Mosaic
+180.23,26.23,55.67,Fusarium Stalk Rot
+60.67,32.89,70.45,Common Rust
+140.45,20.12,90.78,Anthracnose
+10.23,24.78,60.12,Southern Rust
+170.67,31.45,85.34,Gray Leaf Spot
+5.45,17.89,50.67,Downy Mildew
+120.23,25.67,75.89,Northern Corn Leaf Blight
+185.45,33.23,95.23,Fusarium Stalk Rot
+70.67,19.45,65.34,Anthracnose
+150.23,27.89,80.12,Common Rust
