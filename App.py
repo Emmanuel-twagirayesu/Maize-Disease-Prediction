@@ -1,27 +1,3 @@
-"""import streamlit as st
-import pickle
-import numpy as np 
-with open('Save.pkl', 'rb') as f:
-    model = pickle.load(f)
-
-st.title("MAIZE DISEASES PREDICTION")
-st.write("Enter inputs below to get predictions of the diseases corresponding to these data.")
-
-Rain = st.number_input("Rainfall_mm", value=0.0,min_value=1,max_value=100.0,step=0.1)
-Temp = st.number_input("Temperature_C", value=0.0,min_value=1,max_value=50,step=0.1)
-Hum = st.number_input("Humidity_%", value=0.0,min_value=0,max_value=100,step=10.)
-if st.button("Predict"):
-    input_data = np.array([[Rain, Temp, Hum]])
-    prediction = model.predict(input_data)
-    st.success(f"Predicted Disease: {prediction[0]}")
-
-"""
-
-
-    
-    
-    
-    
 import streamlit as st
 import pickle
 import numpy as np
@@ -29,8 +5,6 @@ import numpy as np
 # Load the model
 with open('Save.pkl', 'rb') as f:
     model = pickle.load(f)
-
-
 # Dictionary mapping diseases to recommendations
 disease_recommendations = {
     'Common Rust': """
