@@ -7,7 +7,7 @@ import numpy as np
 
 # Load the model with error handling
 try:
-    model = joblib.load('Save.pkl')
+    model = joblib.load('Model_saving.pkl')
     print('Model loaded successfully!')
 except Exception as e:
     print(f'Error loading model: {str(e)}')
@@ -104,4 +104,5 @@ if st.button("Predict"):
         else:
             st.warning("No recommendations available for this disease.")
     except Exception as e:
+
         st.error(f"Prediction error: {str(e)}")
