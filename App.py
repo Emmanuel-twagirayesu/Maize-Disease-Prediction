@@ -1,10 +1,15 @@
 import streamlit as st
-import pickle
+import joblib  # Switch to joblib
 import numpy as np
 
-# Load the model
-with open('Save.pkl', 'rb') as f:
-    model = pickle.load(f)
+# Load the model with error handling
+try:
+    model = joblib.load('Save.pkl')
+    st.success('Model loaded successfully!')
+except Exception as e:
+    st.error(f'Error loading model: {str(e)}')
+    st.stop()
+
 # Dictionary mapping diseases to recommendations
 disease_recommendations = {
     'Common Rust': """
@@ -72,23 +77,26 @@ disease_recommendations = {
     """
 }
 
-st.title("MAIZE DISEASES PREDICTION")
-st.write("Enter inputs below to get predictions of the diseases corresponding to these data.")
+st.title("Maize Disease Prediction")
+st.write("Enter inputs below to predict maize diseases and get recommendations.")
 
 # Use float values for min_value, max_value, and step to match the float type of value
-Rain = st.number_input("Rainfall_mm", value=0.0, min_value=0.0, max_value=1000.0, step=0.1)
-Temp = st.number_input("Temperature_C", value=0.0, min_value=0.0, max_value=50.0, step=0.1)
-Hum = st.number_input("Humidity_%", value=0.0, min_value=0.0, max_value=100.0, step=0.1)
+Rain = st.number_input("Rainfall (mm)", value=0.0, min_value=0.0, max_value=1000.0, step=0.1)
+Temp = st.number_input("Temperature (°C)", value=0.0, min_value=0.0, max_value=50.0, step=0.1)
+Hum = st.number_input("Humidity (%)", value=0.0, min_value=0.0, max_value=100.0, step=0.1)
 
 if st.button("Predict"):
-    input_data = np.array([[Rain, Temp, Hum]])
-    prediction = model.predict(input_data)
-    predicted_disease = prediction[0]
-    st.success(f"Predicted Disease: {predicted_disease}")
-    
-    # Display recommendations
-    st.subheader("Recommendations")
-    if predicted_disease in disease_recommendations:
-        st.markdown(disease_recommendations[predicted_disease])
-    else:
-        st.warning("No recommendations available for this disease.")
+    try:
+        input_data = np.array([[Rain, Temp, Hum]])
+        prediction = model.predict(input_data)
+        predicted_disease = prediction[0]
+        st.success(f"Predicted Disease: {predicted_disease}")
+
+        # Display recommendations
+        st.subheader("Recommendations")
+        if predicted_disease in disease_recommendations:
+            st.markdown(disease_recommendations[predicted_disease])
+        else:
+            st.warning("No recommendations available for this disease.")
+    except Exception as e:
+        st.error(f"Prediction error: {str(e)}")
