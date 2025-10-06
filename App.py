@@ -1,6 +1,3 @@
-#import joblib
-#model = joblib.load('Save.pkl')
-#print('Model loaded successfully')
 import streamlit as st
 import joblib  # Switch to joblib
 import numpy as np
@@ -104,4 +101,5 @@ if st.button("Predict"):
         else:
             st.warning("No recommendations available for this disease.")
     except Exception as e:
+
         st.error(f"Prediction error: {str(e)}")
